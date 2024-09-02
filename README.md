@@ -11,11 +11,11 @@ Bem-vindo ao repositório "Motorsport Analytics"! Aqui, compartilho análises de
 
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/motorsport-analytics.git
+   git clone https://github.com/lwaeny/motorsport.git
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd motorsport-analytics
+   cd motorsport
 
 3. Instale as dependências necessárias:
    ```bash
