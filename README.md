@@ -7,24 +7,40 @@ Bem-vindo ao repositório "Motorsport Analytics"! Aqui, compartilho análises de
 - **[Análise 1: Vitória de Charles Leclerc no GP de Monza 2024](#analise-1-vitoria-de-charles-leclerc-no-gp-de-monza-2024)**  
   Uma análise aprofundada da performance de Charles Leclerc durante o Grande Prêmio de Monza 2024, destacando as estratégias de corrida, comparações de telemetria e os fatores críticos que levaram à vitória.
 
-## Análise 1: Vitória de Charles Leclerc no GP de Monza 2024
-
-### Descrição
-
-Nesta análise, examino a vitória de Charles Leclerc no Grande Prêmio de Monza 2024. A análise inclui:
-
-- **Comparação de Telemetria:** Análise detalhada dos dados de telemetria de Leclerc comparados com os principais rivais durante a corrida.
-- **Estratégia de Corrida:** Revisão das decisões estratégicas tomadas pela equipe Ferrari que foram fundamentais para o sucesso na corrida.
-- **Destaques de Performance:** Fatores críticos que influenciaram o desempenho de Leclerc, como gestão de pneus, ultrapassagens e desempenho em setores chave do circuito.
-
-### Ferramentas Utilizadas
-
-- **Python:** Linguagem de programação utilizada para análise de dados.
-- **FastF1:** Biblioteca Python usada para extrair e analisar dados de telemetria da Fórmula 1.
-- **Seaborn:** Biblioteca de visualização utilizada para criar gráficos detalhados dos dados de performance.
-
 ### Instruções de Uso
 
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/seu-usuario/motorsport-analytics.git
+
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd motorsport-analytics
+
+3. Instale as dependências necessárias:
+   ```bash
+   pip install -r requirements.txt
+
+4. Execute o script de análise:
+   ```bash
+    python analise_leclerc_monza2024.py
+
+5. Explore os resultados gerados na pasta output.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você deseja adicionar novas análises ou melhorar as existentes, fique à vontade para enviar um pull request. Para grandes mudanças, por favor, abra primeiro uma issue para discutir o que você gostaria de alterar.
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+##
+
+Obrigado por visitar o repositório "Motorsport Analytics". Espero que as análises aqui apresentadas sejam úteis e informativas. Sinta-se à vontade para conectar-se comigo no LinkedIn para discutir mais sobre análises de dados no mundo do motorsport.
+
+   ```csharp
+   
+  ### Pontos para Considerar:
+  - **Links Internos:** Conforme você adicionar mais análises ao repositório, pode criar links internos no README para facilitar a navegação.
+  - **Instruções de Uso:** Adaptar as instruções de uso conforme as ferramentas e métodos específicos de cada análise.
