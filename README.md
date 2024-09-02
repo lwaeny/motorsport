@@ -38,9 +38,3 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para ma
 ##
 
 Obrigado por visitar o repositório "Motorsport Analytics". Espero que as análises aqui apresentadas sejam úteis e informativas. Sinta-se à vontade para conectar-se comigo no LinkedIn para discutir mais sobre análises de dados no mundo do motorsport.
-
-   ```csharp
-   
-  ### Pontos para Considerar:
-  - **Links Internos:** Conforme você adicionar mais análises ao repositório, pode criar links internos no README para facilitar a navegação.
-  - **Instruções de Uso:** Adaptar as instruções de uso conforme as ferramentas e métodos específicos de cada análise.
