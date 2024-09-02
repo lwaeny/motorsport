@@ -33,7 +33,7 @@ Contribuições são bem-vindas! Se você deseja adicionar novas análises ou me
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ##
 
