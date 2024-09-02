@@ -1,5 +1,9 @@
 # Motorsport Analytics
 
+[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+
+<Add library short description>
+
 Bem-vindo ao repositório "Motorsport Analytics"! Aqui, compartilho análises detalhadas sobre Fórmula 1 e outros esportes de corrida. Este repositório é um espaço para explorar dados, desenvolver insights e discutir os aspectos técnicos e estratégicos que influenciam o desempenho das equipes e pilotos.
 
 ## Conteúdos
