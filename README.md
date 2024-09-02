@@ -37,4 +37,5 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ##
 
-Obrigado por visitar o repositório "Motorsport Analytics". Espero que as análises aqui apresentadas sejam úteis e informativas. Sinta-se à vontade para conectar-se comigo no LinkedIn para discutir mais sobre análises de dados no mundo do motorsport.
+Sinta-se à vontade para conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/lukaswaeny) para discutir mais sobre análises de dados no mundo do motorsport.
+
