@@ -7,7 +7,7 @@ Bem-vindo ao repositório "Motorsport Analytics"! Aqui, compartilho análises de
 - **[Análise 1: Vitória de Charles Leclerc no GP de Monza 2024](#analise-1-vitoria-de-charles-leclerc-no-gp-de-monza-2024)**  
   Uma análise aprofundada da performance de Charles Leclerc durante o Grande Prêmio de Monza 2024, destacando as estratégias de corrida, comparações de telemetria e os fatores críticos que levaram à vitória.
 
-### Instruções de Uso
+## Instruções de Uso
 
 1. Clone este repositório:  
    ```bash
