@@ -1,5 +1,5 @@
-#scikit-learn==1.1.3
-#numpy==1.25.0
-#pandas==1.5.3
-
-#pyspark already installed in clusters
+fastf1==2.3.0
+seaborn==0.11.1
+matplotlib==3.3.4
+numpy==1.19.5
+pandas==1.2.1
