@@ -25,7 +25,7 @@ Welcome to the "Motorsport Analytics" repository! Here I share in-depth analysis
 
 ## Conteúdos
 
-- **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](#F1_Italy_2024.ipynb)**  
+- **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](F1/Italy_2024.ipynb)**  
 An in-depth analysis of Charles Leclerc's performance during the 2024 Monza Grand Prix, highlighting race strategies, telemetry comparisons and the critical factors that led to victory.
 
 ## Contributions
