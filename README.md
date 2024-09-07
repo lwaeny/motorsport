@@ -1,5 +1,9 @@
 # Motorsport Analytics
 
+![Licença MIT](https://https://img.shields.io/github/license/lwaeny/motorsport)
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lwaeny/motorsport&title=Visualizações)
+
 [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 
 <Add library short description>
@@ -25,7 +29,7 @@ Welcome to the "Motorsport Analytics" repository! Here I share in-depth analysis
 
 ## Contents
 
-- **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](F1/Italy_2024.ipynb)**  
+- **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](Notebooks/F1_Italy_2024.ipynb)**  
 An in-depth analysis of Charles Leclerc's performance during the 2024 Monza Grand Prix, highlighting race strategies, telemetry comparisons and the critical factors that led to victory.
 
 ## Contributions
