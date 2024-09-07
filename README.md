@@ -23,7 +23,7 @@ Welcome to the "Motorsport Analytics" repository! Here I share in-depth analysis
 4. Explore the data analysis Python notebooks available in the folders.
 
 
-## Conteúdos
+## Contents
 
 - **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](F1/Italy_2024.ipynb)**  
 An in-depth analysis of Charles Leclerc's performance during the 2024 Monza Grand Prix, highlighting race strategies, telemetry comparisons and the critical factors that led to victory.
