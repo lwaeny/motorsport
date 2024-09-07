@@ -1,45 +1,41 @@
 # Motorsport Analytics
 
-[![Python](https://img.shields.io/badge/Python-3.9-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 
 <Add library short description>
 
-Bem-vindo ao repositório "Motorsport Analytics"! Aqui, compartilho análises detalhadas sobre Fórmula 1 e outros esportes de corrida. Este repositório é um espaço para explorar dados, desenvolver insights e discutir os aspectos técnicos e estratégicos que influenciam o desempenho das equipes e pilotos.
+Welcome to the "Motorsport Analytics" repository! Here I share in-depth analysis on Formula 1 and other racing sports. This repository is a space to explore data, develop insights and discuss the technical and strategic aspects that influence team and driver performance.
 
-## Conteúdos
+## Repository Usage Instructions
 
-- **[Análise 1: Vitória de Charles Leclerc no GP de Monza 2024](#analise-1-vitoria-de-charles-leclerc-no-gp-de-monza-2024)**  
-  Uma análise aprofundada da performance de Charles Leclerc durante o Grande Prêmio de Monza 2024, destacando as estratégias de corrida, comparações de telemetria e os fatores críticos que levaram à vitória.
-
-## Instruções de Uso
-
-1. Clone este repositório:  
+1. Clone this repository:
    ```bash
    git clone https://github.com/lwaeny/motorsport.git
 
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
    ```bash
    cd motorsport
 
-3. Instale as dependências necessárias:
+3. Install necessary dependencies:
    ```bash
    pip install -r requirements.txt
 
-4. Execute o script de análise:
-   ```bash
-    python analise_leclerc_monza2024.py
+4. Explore the data analysis Python notebooks available in the folders.
 
-5. Explore os resultados gerados na pasta output.
 
-## Contribuições
+## Conteúdos
 
-Contribuições são bem-vindas! Se você deseja adicionar novas análises ou melhorar as existentes, fique à vontade para enviar um pull request. Para grandes mudanças, por favor, abra primeiro uma issue para discutir o que você gostaria de alterar.
+- **[Análise 1: Vitória de Charles Leclerc no GP de Monza 2024](#F1)**  
+An in-depth analysis of Charles Leclerc's performance during the 2024 Monza Grand Prix, highlighting race strategies, telemetry comparisons and the critical factors that led to victory.
 
-## Licença
+## Contributions
 
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Contributions are welcome! If you want to add new analytics or improve existing ones, feel free to submit a pull request. For big changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ##
 
-Sinta-se à vontade para conectar-se comigo no [LinkedIn](https://www.linkedin.com/in/lukaswaeny) para discutir mais sobre análises de dados no mundo do motorsport.
-
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lukaswaeny) to discuss more about data analytics in the world of motorsport.
