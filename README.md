@@ -1,10 +1,12 @@
 # Motorsport Analytics
+   [![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+   ![Licença MIT](https://img.shields.io/github/license/lwaeny/motorsport)
+   ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lwaeny/motorsport&title=Visualizações)
 
-![Licença MIT](https://https://img.shields.io/github/license/lwaeny/motorsport)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/lwaeny/motorsport&title=Visualizações)
 
-[![Python](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
+
+
 
 <Add library short description>
 
