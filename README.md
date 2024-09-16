@@ -11,6 +11,9 @@ Welcome to the "Motorsport Analytics" repository! Here I share in-depth analysis
 - **[Analysis 1: Charles Leclerc's victory at the 2024 Monza GP](Notebooks/F1_Italy_2024.ipynb)**  
 An in-depth analysis of Charles Leclerc's performance during the 2024 Monza Grand Prix, highlighting race strategies, telemetry comparisons and the critical factors that led to victory.
 
+- **[Analysis 1: Oscar Piastri victory at the 2024 Azerbaijan GP](Notebooks/F1_Azerbaijan_2024.ipynb)**  
+An in-depth analysis of Oscar Piastri's performance during the 2024 Azerbaijan Grand Prix, highlighting differences in cornering speeds, telemetry comparisons and the critical factors that led to victory.
+
 ## Repository Usage Instructions
 
 1. Clone this repository:
